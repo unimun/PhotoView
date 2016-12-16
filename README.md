@@ -3,7 +3,7 @@
 # PhotoView
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
-[![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)
+[![](https://jitpack.io/v/unimun/PhotoView.svg)](https://jitpack.io/#unimun/PhotoView)
 
 ## Features
 - Out of the box zooming, using multi-touch and double-tap.
