@@ -662,7 +662,7 @@ public class PhotoViewAttacher implements IPhotoView, View.OnTouchListener,
     @Override
     public void setZoomable(boolean zoomable) {
         mZoomEnabled = zoomable;
-        update();
+        // update();
     }
 
     public void update() {
